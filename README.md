@@ -1,4 +1,4 @@
-# Unveiling Multifaceted Insights through NLP: Analyzing Indian Express Articles
+# Unveiling Multifaceted Insights through NLP: Analyzing Newspaper Articles
 
 In the realm of Natural Language Processing (NLP), the exploration of news articles can unlock a treasure trove of information. This project embarks on a journey through the Indian Express articles dataset, employing cutting-edge techniques and visualization tools to extract, analyze, and present a spectrum of insights.
 
@@ -28,9 +28,6 @@ At its core, this project aims to showcase the profound capabilities of NLP by s
     - Focused NER analysis on 'BJP,' 'Congress,' 'Rahul Gandhi,' and 'Narendra Modi.'
     - Explored the influence and prominence of these political entities within the articles.
 
-6. **Visualizations in Power BI and Plotly**
-    - Skillfully rendered insights through a Power BI interactive dashboard.
-    - Enhanced visualization further with dynamic Plotly visualizations, conveying complex patterns.
 
 ## **Demonstrated Skills**
 
@@ -48,7 +45,3 @@ The project goes beyond analysis; it shapes information into actionable intellig
 - Highlights technical prowess in NLP and data storytelling.
 
 In conclusion, this project transforms raw data into a panoramic canvas of insights, unveiling sentiment trends, topics, and key entities within the Indian Express articles. With NLP techniques and visualization as the brushstrokes, it crafts a vivid narrative that captivates, informs, and empowers decision-makers.
-
-*Embark on the journey of NLP exploration – where data speaks, and insights resonate.*
-
-[Project Repository](link-to-repo)
