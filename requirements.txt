@@ -1,0 +1,23 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Hugging Face and ML libraries
+transformers
+torch
+bertopic
+scikit-learn
+nltk
+
+# NLP utilities
+spacy
+wordcloud
+
+# Topic modeling dependencies
+umap-learn
+
+# Visualization
+plotly
+networkx
